@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Lua / Love2D
+*.lua~
+*.love
+/assets/*.png
+/assets/*.aseprite
