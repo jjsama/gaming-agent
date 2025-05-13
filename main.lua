@@ -19,7 +19,7 @@ function love.load()
     -- 4) Trim any leading/trailing whitespace or newlines
     raw = raw:match("^%s*(.-)%s*$")
 
-    -- (Optional) Debug: print the cleaned JSON
+    --Debug: print the cleaned JSON
     print("--- Cleaned JSON Content Start ---")
     print(raw)
     print("--- Cleaned JSON Content End ---\n")
