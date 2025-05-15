@@ -1,4 +1,3 @@
-# Cursor Rules for Blobville Game Development
 # Inspired by John Carmack's disciplined, first-principles approach to coding
 
 # Rule 1: Think from First Principles

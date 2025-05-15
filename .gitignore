@@ -6,3 +6,7 @@
 *.love
 /assets/*.png
 /assets/*.aseprite
+.venv/
+.env
+__pycache__/
+*.pyc
